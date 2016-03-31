@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="home_indicator">bottom_point</string>
+    <string name="wallpaper_scrolling">Tümü</string>
+    <string name="sharedUserId" />
+    <string name="process" />
+    <string name="application_name">Tercihler</string>
+    <string name="folder_name">Klasör</string>
+    <string name="unnamed_folder_name">Başlıksız</string>
+    <string name="chooser_wallpaper">Duvar kağıdı seçin</string>
+    <string name="activity_not_found">Uygulama telefonunuzda yüklü değil</string>
+    <string name="cancel_action">İptal</string>
+    <string name="bad_wallpaper_source_prompt">Duvar kağıdı yüklenemedi</string>
+    <string name="apply_as_lock_wallpaper">Uygula</string>
+    <string name="apply_as_lock_wallpaper_message">Kilit ekranınada bu duvar kağıdını uygulayabilirsiniz</string>
+    <string name="lock_screen_failed_message">Geçerli değil</string>
+    <string name="lock_screen_success_message">Uygulandı</string>
+    <string name="out_of_space">Bu ev ekranında boş yer kalmadı</string>
+    <string name="title_select_shortcut">Kısayol seçin</string>
+    <string name="menu_add">Ekle</string>
+    <string name="menu_wallpaper">Duvar kağıtları</string>
+    <string name="menu_search">Arama yap</string>
+    <string name="menu_workspace_preview">Ana sayfa düzeni</string>
+    <string name="menu_back_desktop">Geri dön</string>
+    <string name="menu_settings">Ayarlar</string>
+    <string name="menu_reset_scene">Sahneyi varsayılana sıfırla</string>
+    <string name="menu_exit_scene">MiSpaceden çık</string>
+    <string name="permlab_install_shortcut">Kısayol yükle</string>
+    <string name="permdesc_install_shortcut">Kullanıcı eylemi olmaksızın uygulamaya kısayol eklenmesi için izin ver</string>
+    <string name="permlab_uninstall_shortcut">Kısayolları kaldır</string>
+    <string name="permdesc_uninstall_shortcut">Kullanıcı müdahale etmeden uygulamaya kısayol silmesi için izin ver</string>
+    <string name="permlab_install_widget">Widget yükle</string>
+    <string name="permdesc_install_widget">Uygulamanın kullanıcı müdahalesi olmadan widget eklemesine izin ver</string>
+    <string name="permlab_read_settings">Kısayol ve ana sayfa ayarlarını okuma</string>
+    <string name="permdesc_read_settings">Uygulamaya ana sayfada kısayol ve ayarları okumak için izin ver</string>
+    <string name="permlab_write_settings">Ana sayfa ve kısayol ayarları</string>
+    <string name="permdesc_write_settings">Uygulamaya ana sayfada kısayol ve ayarları okumak için izin ver</string>
+    <string name="status_pending">Beklemede</string>
+    <string name="status_downloading">Devam ediyor</string>
+    <string name="status_paused">Duraklatıldı</string>
+    <string name="status_downloaded">İndirilen</string>
+    <string name="status_installing">Yükleme</string>
+    <string name="loading_desktop">Hoşgeldiniz</string>
+    <string name="start_activity_failed">Başlatılamadı. Tekrar deneyiniz</string>
+    <string name="gadget_error_text">Widget yüklenirken hata oluştu</string>
+    <string name="menu_edit">Widgetler</string>
+    <string name="menu_sort">Ana ekran simgelerini sırala</string>
+    <string name="menu_launcher_setting">Tercihler</string>
+    <string name="editing_tips">Widget ekle veya düzenle</string>
+    <string name="multi_selecting_tips">Başlamak için simgeye dokunun</string>
+    <string name="editing_add_widget_tips">Widget ekle</string>
+    <string name="editing_set_wallpaper_tips">Duvar kağıdını değiştir</string>
+    <string name="editing_set_transition_effect_tips">Ekran geçiş efektleri</string>
+    <string name="uninstall_dialog_message">Tüm veriler silinecek</string>
+    <string name="uninstall_dialog_title_format">Kaldır: %s</string>
+    <string name="uninstall">Kaldır</string>
+    <string name="starting_preset_app">Başlatılıyor</string>
+    <string name="install">Yükle</string>
+    <string name="failed_to_drop">Simge taşınamadı. Eski konumuna geri yüklendi</string>
+    <string name="failed_to_drop_widget_nospace">Ekranda yeterli boş alan yok</string>
+    <string name="failed_to_drop_widget_invalid">Araç hatalı</string>
+    <string name="failed_to_delete_temporary">Silme işleminde hata oluştu. Lütfen tekrar deneyin</string>
+    <string name="confirm_btn_label">Tamam</string>
+    <string name="cancel_btn_label">İptal</string>
+    <string name="default_folder_title_tools">Araçlar</string>
+    <string name="default_folder_title_recommend">Önerilenler</string>
+    <string name="default_folder_title_game">Oyunlar</string>
+    <string name="default_folder_title_security">Güvenlik merkezi</string>
+    <string name="online_wallpaper">Çevirimiçi duvar kağıdı</string>
+    <string name="custom_wallpaper_picker">Özel</string>
+    <string name="reset_scene_prompt">Sahne düzeni varsayılana sıfırlansın mı?</string>
+    <string name="preferences_title">Tercihler</string>
+    <string name="preferences_general_title">Genel ayarlar</string>
+    <string name="pref_keep_in_memory_title">Hafızada sakla</string>
+    <string name="pref_keep_in_memory_summary">Düşük hafıza kalsada başlatıcı çalışmaya devam eder</string>
+    <string name="pref_enable_drawing_cache_title">Grafik önbelleği</string>
+    <string name="pref_enable_drawing_cache_summary">Hafızada yer açmak için devre dışı bırakın. (Gecikmelere neden olabilir)</string>
+    <string name="pref_icon_shadow_title">Simge gölgesi</string>
+    <string name="pref_icon_shadow_summary">Ev ekranı alt bar simgelerinde gölge gösterimini ayarlar</string>
+    <string name="pref_screen_transformation_type_title">Ekran geçiş efektleri</string>
+    <string name="pref_wallpaper_scroll_type_title">Duvar kağıdını kaydırma şekli</string>
+    <string name="pref_cell_layout_size">Tablo stili</string>
+    <string name="pref_keep_layout_title">Geçerli düzeni koru</string>
+    <string name="pref_keep_layout_summary">Simge düzenini değiştirmek masaüstü görünümünü bozabilir</string>
+    <string name="widget_gadget_player">Müzik</string>
+    <string name="emptyplaylist">Çalma listesi boş</string>
+    <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
+    <string name="gadget_search_label">Arama</string>
+    <string name="global_search_hint">Ara</string>
+    <string name="widget_global_search">Arama</string>
+    <string name="gadget_clear_button_label">Temizleyici</string>
+    <string name="gadget_clock_label">Saat</string>
+    <string name="gadget_clock_12_label">Mekanik</string>
+    <string name="gadget_clock_22_label">Analog</string>
+    <string name="gadget_clock_24_label">Dijital</string>
+    <string name="gadget_photo_label">Resim</string>
+    <string name="gadget_photo_44_label">Büyük</string>
+    <string name="gadget_photo_22_label">Küçük</string>
+    <string name="gadget_photo_24_label">Orta</string>
+    <string name="gadget_google_search_label">Googlede ara</string>
+    <string name="gadget_load_error">Widget yükleniyor</string>
+    <string name="invalid_contact_shortcut">Geçersiz kişi kısayolu</string>
+    <string name="durationformatshort">%2$2d:%5$02d</string>
+    <string name="durationformatshort_padding_with_0">%2$02d:%5$02d</string>
+    <string name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+    <string name="photo_adjust">Fotoğrafı düzenle</string>
+    <string name="select_photo">Fotoğraf</string>
+    <string name="select_frame">Çerçeve</string>
+    <string name="photo_confirm">Onayla</string>
+    <string name="photo_load_failed">Fotoğraf yüklenirken hata oluştu</string>
+    <string name="frame_load_failed">Geçersiz fotoğraf çerçevesi. Çerçeve yüklenemedi</string>
+    <string name="gadget_weather_loading">Hava durumu bilgisi yok</string>
+    <string name="gadget_weather_title">Hava durumu</string>
+    <string name="gadget_weather_title_24">Hava durumu</string>
+    <string name="gadget_weather_app_not_installed">Hava durumunu yüklemek için tıklayın</string>
+    <string name="gadget_weather_time_format">dd.MM.yyyy</string>
+    <string name="gadget_weather_aqi_title">Hava kalitesi</string>
+    <string name="aqi_quality_index_good">İyi</string>
+    <string name="aqi_quality_index_moderate">Orta</string>
+    <string name="aqi_quality_index_light_pollution">Işık kirliliği</string>
+    <string name="aqi_quality_index_unhealthy">Sağlıksız</string>
+    <string name="aqi_quality_index_dangerous">Tehlikeli</string>
+    <string name="aqi_quality_index_hazardous">Şüpheli</string>
+    <string name="free_style_apps_title">Uygulamayı seç</string>
+    <string name="free_style_edit_bar_empty">Boş</string>
+    <string name="free_style_enter_tip">MiSpace geçmek için iki parmağınızla aşağıya doğru kaydırın</string>
+    <string name="free_style_exit_tip">MiSpaceden çıkmak için iki parmağınızla yukarıya doğru kaydırın</string>
+    <string name="toggle_select_title">Geçişi seçin</string>
+    <string name="toggle_title">Geçiş</string>
+    <string name="settings_shortcut">Ayarlar</string>
+    <string name="free_style_edit_tab_shortcut">Kısayollar</string>
+    <string name="free_style_edit_tab_free_component">Serbest bileşenler</string>
+    <string name="free_style_edit_tab_widget">Widgetler</string>
+    <string name="free_style_edit_move_tip">Taşımak için basılı tutun</string>
+    <string name="free_style_edit_app">Uygulama</string>
+    <string name="free_style_edit_drawer">Çekmece</string>
+    <string name="free_style_drawer_title">Tüm uygulamalar</string>
+    <string name="guide_install_app_title">Uygulamayı yükle</string>
+    <string name="guide_install_app_msg">Uygulama yüklü değil. Şimdi markette aransın mı?</string>
+    <string name="menu_customize">Ayarları değiştir</string>
+    <string name="menu_picktheme">Temayı seç</string>
+    <string name="scroll_tip_format_when_announce_accessibility">Sayfa %1$d, %2$d uygulama</string>
+    <string name="maml_component_customization_title">Bileşen ayarları</string>
+    <string name="default_name">Varsayılan</string>
+    <string name="resource_select">Seç</string>
+    <string name="status_bar_toggle_ac">Erişim kontrolü</string>
+    <string name="status_bar_toggle_bluetooth">Bluetooth</string>
+    <string name="status_bar_toggle_brightness">Parlaklık</string>
+    <string name="status_bar_toggle_auto_brightness">Otomatik parlaklık</string>
+    <string name="status_bar_toggle_data">Mobil veri</string>
+    <string name="status_bar_toggle_divider">Diğer</string>
+    <string name="status_bar_toggle_flight_mode">Uçak modu</string>
+    <string name="status_bar_toggle_gps">Gps</string>
+    <string name="status_bar_toggle_lock">Kilitle</string>
+    <string name="status_bar_toggle_mute">Sessiz</string>
+    <string name="status_bar_toggle_network_type">Şebeke</string>
+    <string name="status_bar_toggle_privacy_mode">Koruma</string>
+    <string name="status_bar_toggle_reboot">Yeniden başlat</string>
+    <string name="status_bar_toggle_rotate">Döndürme</string>
+    <string name="status_bar_toggle_screen_button">Tuşlar</string>
+    <string name="status_bar_toggle_screenshot">Ekran görüntüsü</string>
+    <string name="status_bar_toggle_shutdown">Güç</string>
+    <string name="status_bar_toggle_sync">Senkronize</string>
+    <string name="status_bar_toggle_torch">El feneri</string>
+    <string name="status_bar_toggle_vibrate">Titreşim</string>
+    <string name="status_bar_toggle_wifi">Wifi</string>
+    <string name="status_bar_toggle_power_mode">Güç kullanım modu</string>
+    <string name="status_bar_toggle_drive_mode">Sürüş modu</string>
+    <string name="status_bar_toggle_wifi_ap">Wifi paylaşımı</string>
+    <string name="status_bar_toggle_quiet_mode">Sessiz mod</string>
+    <string name="status_bar_toggle_ringtone">Zilsesi</string>
+    <string name="status_bar_toggle_ring">Zil</string>
+    <string name="status_bar_toggle_sync_auto">Otomatik senkronize</string>
+    <string name="status_bar_toggle_sync_manual">Elle senkronize</string>
+    <string name="status_bar_toggle_syncing">Senkronize ediliyor</string>
+    <string name="status_bar_toggle_power_mid">Normal mod</string>
+    <string name="status_bar_toggle_power_high">Performans modu</string>
+    <string name="status_bar_toggle_advanced_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
+    <string name="status_bar_toggle_data_action">com.android.phone/.Settings</string>
+    <string name="status_bar_toggle_divider_action">com.android.systemui/.settings.StyleSettings</string>
+    <string name="status_bar_toggle_bluetooth_action">com.android.settings/com.android.settings.Settings$BluetoothSettingsActivity</string>
+    <string name="status_bar_toggle_brightness_action">com.android.settings/com.android.settings.display.BrightnessActivity</string>
+    <string name="status_bar_toggle_flight_mode_action">com.android.settings/com.android.settings.MiuiSettings</string>
+    <string name="status_bar_toggle_gps_action">com.android.settings/com.android.settings.Settings$LocationSettingsActivity</string>
+    <string name="status_bar_toggle_mute_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
+    <string name="status_bar_toggle_network_type_action">com.android.phone/.MiuiPreferredNetworkTypeListPreference</string>
+    <string name="status_bar_toggle_rotate_action">com.android.settings/com.android.settings.Settings$DisplaySettingsActivity</string>
+    <string name="status_bar_toggle_sync_action">com.android.settings/com.android.settings.Settings$ManageAccountsSettingsActivity</string>
+    <string name="status_bar_toggle_vibrate_action">com.android.settings/com.android.settings.Settings$SoundSettingsActivity</string>
+    <string name="status_bar_toggle_wifi_action">com.android.settings/com.android.settings.Settings$WifiSettingsActivity</string>
+    <string name="status_bar_toggle_power_mode_action">com.android.settings/com.android.settings.Settings$BatterySettingsActivity</string>
+    <string name="status_bar_toggle_drive_mode_action">com.android.settings/com.android.settings.MiuiDriveModeSettings</string>
+    <string name="status_bar_toggle_wifi_ap_action">com.android.settings/com.android.settings.Settings$TetherSettingsActivity</string>
+    <string name="status_bar_toggle_quiet_mode_action">com.android.settings/.dndmode.DoNotDisturbModeActivity</string>
+    <string name="screen_rotation_freeze_message">Yatay mod için ekran döndürme kilitli</string>
+    <string name="screen_button_disabled_message">Ekranın altındaki tuşlar devre dışı. Etkinleştirmek için \"Ev\" ve \"Güç\" tuşlarına basın</string>
+    <string name="screen_button_enabled_message">Ekranın altındaki tuşlar etkin</string>
+    <item type="string" name="APKTOOL_DUMMY_00c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00cb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00cc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00ce">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00cf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00d0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00d3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00d5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00d6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00d7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00d9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00da">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00db">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00dc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00dd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00de">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00df">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00e3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00e4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00e5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00e6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00e7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00e8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00e9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00ea">false</item>
+    <item type="string" name="APKTOOL_DUMMY_00eb">false</item>
+</resources>

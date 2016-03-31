@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="send_item">
+        <item>Mesaj</item>
+        <item>E-posta</item>
+    </string-array>
+	<string-array name="act_weather_main_listview_json_key">
+        <item>Wind1</item>
+        <item>İndeksi</item>
+        <item>Giyim indeksi</item>
+        <item>Konfor indeksi</item>
+        <item>Araba yıkama indeksi</item>
+        <item>Kurutma indeksi</item>
+        <item>Sabah egzersiz indeksi</item>
+        <item>Seyahat indeksi</item>
+    </string-array>
+    <string-array name="act_weather_main_listview_key">
+        <item>Rüzgar hızı:</item>
+        <item>İndeks:　</item>
+        <item>Giyim:</item>
+        <item>Hissedilen:</item>
+        <item>Araba yıkama indeksi:</item>
+        <item>Kurutma indeksi:</item>
+        <item>Sabah egzersiz:</item>
+        <item>Boş zaman:</item>
+    </string-array>
+    <string-array name="weather_image">
+        <item>Güneşli</item>
+        <item>Bulutlu</item>
+        <item>Puslu</item>
+        <item>Sisli</item>
+        <item>Şiddetli yağmur</item>
+        <item>Yağmur fırtınası</item>
+        <item>Yoğun yağmur</item>
+        <item>Gökgürültülü yağmur</item>
+        <item>Sağanak yağmur</item>
+        <item>Yoğun yağmur</item>
+        <item>Yağmur</item>
+        <item>Çiseli</item>
+        <item>Karla karışık yağmur</item>
+        <item>Kar fırtınası</item>
+        <item>Aralıklı kar yağışı</item>
+        <item>Yağun kar yağışı</item>
+        <item>Kar yağışı</item>
+        <item>Hafif kar yağışı</item>
+        <item>Kar fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Kum fırtınası</item>
+        <item>Dolu</item>
+        <item>Toz </item>
+        <item>Puslu</item>
+    </string-array>
+	<string-array name="weather_details_key">
+        <item>Kullanılamıyor</item>
+        <item>Uygun</item>
+        <item>İyi</item>
+        <item>Mümkünse kaçının</item>
+        <item>Önerilmez</item>
+        <item>İdeal</item>
+        <item>Ilımlı</item>
+        <item>Zayıf</item>
+        <item>Orta</item>
+        <item>Güçlü</item>
+        <item>Çok güçlü</item>
+        <item>Serin</item>
+        <item>Rahat</item>
+        <item>Çok sıcak</item>
+        <item>Sıcak</item>
+        <item>Ilık</item>
+        <item>Serin</item>
+        <item>Soğutucu</item>
+        <item>Soğuk</item>
+        <item>Donma</item>
+        <item>Yüksek</item>
+        <item>Orta</item>
+        <item>Düşük</item>
+        <item>Açık gökyüzü</item>
+        <item>Bulutlu</item>
+        <item>Yağmur</item>
+        <item>Kum fırtınası</item>
+        <item>Kar</item>
+        <item>Nispeten uygun koşullar</item>
+        <item>Uygun koşullar</item>
+        <item>Bulutlu</item>
+        <item>İdealdan daha az</item>
+        <item>İdeal koşullar</item>
+		<item>Kötü koşullar</item>
+        <item>Orta koşullar</item>
+    </string-array>
+    <string-array name="weather_image_tips">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>Şiddetli yağmur yağıyor. Şemsiye almayı unutmayın</item>
+        <item>Şiddetli yağmur yağıyor. Şemsiye almayı unutmayın</item>
+        <item>Şiddetli yağmur yağıyor. Şemsiye almayı unutmayın</item>
+        <item>Dışarı çıkacaksanız şemsiye almayı unutmayın</item>
+        <item>Dışarı çıkacaksanız şemsiye almayı unutmayın</item>
+        <item>Dışarı çıkacaksanız şemsiye almayı unutmayın</item>
+        <item>Bugün yağmur yağacak. Şemsiye almayı unutmayın</item>
+        <item>Yağmur çiseliyor. Şemsiye alsanız iyi olur</item>
+        <item>Karla karışık yağmur yağıyor. Şemsiye alsanız iyi olur</item>
+        <item>Sağanak kar yağıyor. Şapka veye eşarp giymeyi unutmayın</item>
+        <item>Bugün kar yağacak. Şapka ve atkı almayı unutmayın</item>
+        <item>Sağanak kar yağıyor. Şapka veye eşarp giymeyi unutmayın</item>
+        <item>Hafif kar yağıyor. Şapka ve eşarp giymeyi unutmayın</item>
+        <item>Hafif bir kar yağışı var. Şapka ve atkı giymeyi unutmayın</item>
+        <item>Çok güçlü bir kum fırtınası var. Yüz maskesi giymeyi unutmayın</item>
+        <item>Bir şemsiye almayı unutmayın. Hafif yağmur yağıyor</item>
+        <item>Çok güçlü bir kum fırtınası var. Yüz maskesi giymeyi unutmayın</item>
+        <item>Çok güçlü bir kum fırtınası var. Yüz maskesi giymeyi unutmayın</item>
+        <item>Dolu yağıyor. Dikkatli yürüyün</item>
+    </string-array>
+    <string-array name="weather_sms_content">
+        <item>Güneş koruyucu kullanmayı unutmayın</item>
+        <item>Bugün bulutlu olacak</item>
+        <item>Hava kötü bir hal alacaktır. Kapalı yerde kalmaya çalışın</item>
+        <item>Dikkatli sür</item>
+        <item>Ağır yağmur yağıyor. Şemsiye almayı unutmayın</item>
+        <item>Ağır yağmur yağıyor. Şemsiye almayı unutmayın</item>
+        <item>Ağır yağmur yağıyor. Şemsiye almayı unutmayın</item>
+        <item>Şemsiye alın</item>
+        <item>Şemsiye alın</item>
+        <item>Şemsiye alın</item>
+        <item>Şemsiye alın</item>
+        <item>Dışarısı ıslak gibi. Şemsiye almayı unutmayın</item>
+        <item>Yağmur ve kar karışımı bir hava var. Şemsiye almayı unutmayın</item>
+        <item>Ağır kar yağıyor</item>
+        <item>Şapka ve eşarp almayı unutmayın</item>
+        <item>Ağır kar yağıyor. Şapka ve eşarp almayı unutmayın</item>
+        <item>Biraz kar yağıyor. Şapka ve eşarp almayı unutmayın</item>
+        <item>Kar yağıyor. Şapka ve eşarp almayı unutmayın</item>
+        <item>Çok güçlü bir kum fırtınası var. Yüz maskesi giymeyi unutmayın</item>
+        <item>Çok güçlü bir kum fırtınası var. Yüz maskesi giymeyi unutmayın</item>
+        <item>Çok güçlü bir kum fırtınası var. Yüz maskesi giymeyi unutmayın</item>
+        <item>Çok güçlü bir kum fırtınası var. Yüz maskesi giymeyi unutmayın</item>
+        <item>Dolu yağabilir. Dikkatli yürüyün</item>
+        <item>Hava kalitesi kötüdür</item>
+        <item>Hava kalitesi kötü. Kapalı yerde kalmaya çalışın</item>
+    </string-array>
+    <string-array name="weather_sms_addons">
+        <item>Bugünün tahmini: $</item>
+        <item>Düşük~yüksek: %</item>
+        <item>Şemsiye almayı unutmayın</item>
+        <item>Kuru kalmak için deneyin :)</item>
+        <item>Dışarıda giysi kurutuyorsanız daha sonra toplamak için unutmayın</item>
+        <item>Mümkünse araç kullanmayın</item>
+        <item>Dikkatli sür</item>
+        <item>Dikkatli olun. Kaygan</item>
+        <item>Acele etmeyin. Orada dikkatli olun</item>
+        <item>Dışarıda dikkatli olun</item>
+        <item>Gerekli olmadıkça dışarı çıkmayın</item>
+        <item>Güneş gözlüğü alın</item>
+        <item>Güneş gözlüğü alın</item>
+        <item>Dışarısı rüzgarlı. Ceket giymeyi unutmayın</item>
+        <item>Hava kalitesi kötüdür</item>
+        <item>Ceket almayı unutmayın</item>
+        <item>Maske takmayı unutmayın</item>
+        <item>Eldiven ve şapka takmayı unutmayın</item>
+        <item>Dışarısı sıcak</item>
+        <item>Dışarısı sıcak</item>
+        <item>Giyinin</item>
+        <item>Soğuk hava dalgası geliyor</item>
+        <item>Giyinin</item>
+        <item>Kulaklık koruyucularınız varsa takın :)</item>
+        <item>Çalıştırmak için gidin</item>
+        <item>Çalıştırmak için gidin ve güneşli olsun :)</item>
+        <item>Elbiselerinizi kurutmak için iyi bir gün</item>
+        <item>Hava serin. bir ceket giymeyi unutmayın</item>
+    </string-array>
+    <string-array name="weather_info_uv">
+        <item>0</item>
+        <item>Kullanılamıyor</item>
+        <item>6</item>
+        <item>Güneş kremi kullanın. Şapka ve güneş gözlüğü takın</item>
+        <item>7</item>
+        <item>Güneş kremi kullanın. Şapka ve güneş gözlüğü takın</item>
+        <item>8</item>
+        <item>Güneş kremi kullanın. Şapka ve güneş gözlüğü takın</item>
+        <item>9</item>
+        <item>Mümkünse güneşden kaçının. Dışarı çıkmanız gerekiyorsa güneş kremi kullanın</item>
+        <item>10</item>
+        <item>Mümkünse güneşden kaçının. Dışarı çıkmanız gerekiyorsa güneş kremi kullanın</item>
+    </string-array>
+    <string-array name="weather_info_dress">
+        <item>0</item>
+        <item>Kullanılamıyor</item>
+        <item>11</item>
+        <item>Hafif ceket alın</item>
+        <item>12</item>
+        <item>Hafif ceket alın</item>
+        <item>13</item>
+        <item>Yaz giysileri giyin</item>
+        <item>14</item>
+        <item>Yaz giysileri giyin</item>
+        <item>15</item>
+        <item>Hafif ceket alın</item>
+        <item>16</item>
+        <item>Ek katmanları almayı unutmayın</item>
+        <item>17</item>
+        <item>Bir ceket alın</item>
+        <item>18</item>
+        <item>Sıkı giyinin</item>
+        <item>19</item>
+        <item>Sıkı giyinin</item>
+    </string-array>
+    <string-array name="weather_info_msport">
+        <item>0</item>
+        <item>Kullanılamıyor</item>
+        <item>1</item>
+        <item>Bu sabah egzersizleri için iyi bir gün</item>
+        <item>2</item>
+        <item>Ek katmanlar alın</item>
+        <item>3</item>
+        <item>Hava ideal değildir</item>
+        <item>4</item>
+        <item>Kapalı egzersiz</item>
+    </string-array>
+    <string-array name="weather_info_comfort">
+        <item>0</item>
+        <item>Kullanılamıyor</item>
+        <item>20</item>
+        <item>Sıcaklık sabit olacak</item>
+        <item>21</item>
+        <item>Serin ve rahat</item>
+        <item>22</item>
+        <item>Sıcaklık uçucu olacak</item>
+        <item>23</item>
+        <item>Açık gökyüzü ve rahatsız sıcaklıklar</item>
+        <item>24</item>
+        <item>Sıcak ve nemli</item>
+    </string-array>
+    <string-array name="weather_info_wcar">
+        <item>0</item>
+        <item>Kullanılamıyor</item>
+        <item>1</item>
+        <item>Arabayı yıkamak için iyi bir gün</item>
+        <item>2</item>
+        <item>Arabayı yıkamak için iyi bir gün</item>
+        <item>3</item>
+        <item>Yağmur. Arabayı kapalı yerde tutun</item>
+        <item>25</item>
+        <item>Yağmur. Arabayı kapalı yerde tutun</item>
+        <item>26</item>
+        <item>Kum fırtınası. Arabayı kapalı yerde tutun</item>
+        <item>27</item>
+        <item>Kar yağacak. Arabayı kapalı yerde tutun</item>
+        <item>4</item>
+        <item>Arabayı kapalı yerde tutun</item>
+    </string-array>
+    <string-array name="weather_info_hung">
+        <item>0</item>
+        <item>Kullanılamıyor</item>
+        <item>28</item>
+        <item>Öğleden sonra kurumayan giysilerinizi asın</item>
+        <item>29</item>
+        <item>Kurutmak için giysilerinizi asın</item>
+        <item>30</item>
+        <item>Bulutlu ancak giysileriniz kuruyacak kadar sıcak</item>
+        <item>1</item>
+        <item>Hava giysilerinizi kurutmak için uygundur</item>
+        <item>3</item>
+        <item>Bu gün boyunca aralıklı yağmur olacak</item>
+        <item>5</item>
+        <item>İyi kurutma koşulları</item>
+        <item>4</item>
+        <item>Kapalı yerde giysilerinizi kurulayın</item>
+        <item>31</item>
+        <item>Kapalı yerde giysilerinizi kurulayın</item>
+    </string-array>
+    <string-array name="weather_info_travel">
+        <item>0</item>
+        <item>Kullanılamıyor</item>
+        <item>32</item>
+        <item>İyi sıcaklıklar ve açık güneşli</item>
+        <item>2</item>
+        <item>Hafif ve kararlı sıcaklıklar</item>
+        <item>1</item>
+        <item>Hafif ve kararlı sıcaklıklar</item>
+        <item>3</item>
+        <item>Bugünkü hava uçucu olacaktır</item>
+        <item>33</item>
+        <item>Bugünkü hava uçucu olacaktır</item>
+        <item>34</item>
+        <item>Masmavi gökyüzü ve hafif rüzgar</item>
+    </string-array>
+    <string-array name="weather_info_fl">
+        <item></item>
+        <item>Kat kat giyinin</item>
+        <item>Esintili</item>
+        <item>Rahat</item>
+        <item>Mevcut veya mevcut değil</item>
+        <item>Kullanılamıyor</item>
+    </string-array>
+</resources>

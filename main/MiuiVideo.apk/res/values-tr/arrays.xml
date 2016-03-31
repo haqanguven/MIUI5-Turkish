@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="channel_tabs">
+        <item>Sıcak</item>
+        <item>Rütbe</item>
+        <item>En yeni</item>
+    </string-array>
+    <string-array name="channel_featured_tabs">
+        <item>Seçilmiş</item>
+        <item>Rütbe</item>
+        <item>En yeni</item>
+    </string-array>
+    <string-array name="home_tabs">
+        <item>Çevirimiçi</item>
+        <item>Yerel</item>
+    </string-array>
+    <string-array name="series_detail_tabs">
+        <item>Bölüm</item>
+        <item>Özet</item>
+    </string-array>
+    <string-array name="addon_list_tabs">
+        <item>Tümü</item>
+        <item>Özel</item>
+    </string-array>
+</resources>

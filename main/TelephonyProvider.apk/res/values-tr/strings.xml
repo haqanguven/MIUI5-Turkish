@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Telefon ve mesajlaşma deposu</string>
+    <string name="sms_provider_label">Mesaj</string>
+    <string name="mms_provider_label">Multimedya</string>
+    <string name="mms_sms_provider_label">Mesajlaşma</string>
+    <string name="default_cateogry_fraudulent">Sahte</string>
+    <string name="default_cateogry_sales">Satış</string>
+    <string name="default_cateogry_intermediary">Aracı kurum</string>
+    <string name="default_cateogry_meal_delivery">Yemek dağıtım</string>
+    <string name="default_cateogry_courier">Kurye</string>
+</resources>

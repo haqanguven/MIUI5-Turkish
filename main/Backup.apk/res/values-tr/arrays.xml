@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="backup_dialog_content_type">
+        <item>Wifi veri</item>
+        <item>Tüm programlar</item>
+    </string-array>
+    <string-array name="system_package_label">
+        <item>Tarayıcı</item>
+        <item>Galeri</item>
+        <item>İzin yöneticisi</item>
+        <item>Kamera</item>
+        <item>Ağ asistanı</item>
+        <item>Hava durumu deposu</item>
+        <item>Hava durumu</item>
+    </string-array>
+    <string-array name="system_data_label">
+        <item>Kişiler</item>
+        <item>Arama kaydı</item>
+        <item>Mesajlar</item>
+        <item>Multimedya mesajları</item>
+        <item>Sistem ayarları</item>
+        <item>Wifi ayarları</item>
+        <item>Ana ekran Düzeni</item>
+        <item>Alarm ayarları</item>
+        <item>Notlar</item>
+        <item>Dnd</item>
+        <item>Hesaplar</item>
+    </string-array>
+    <string-array name="app_type_desc">
+        <item>Veri</item>
+        <item>Uygulamalar</item>
+        <item>Uygulamalar ve veri</item>
+    </string-array>
+    <string-array name="cloud_data_label">
+        <item>Kişiler</item>
+        <item>Arama kaydı</item>
+        <item>Mesajlar</item>
+        <item>Wifi ayarları</item>
+        <item>Notlar</item>
+    </string-array>
+    <string-array name="cloud_account_data">
+        <item>Kişiler</item>
+        <item>Wifi ayarları</item>
+        <item>Notlar</item>
+    </string-array>
+    <string-array name="cloud_sim_data">
+        <item>Arama kaydı</item>
+        <item>Mesajlar</item>
+    </string-array>
+</resources>

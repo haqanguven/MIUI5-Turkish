@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="power_center_battery_day">
+        <item quantity="other">%d gün</item>
+        <item quantity="one">%d gün</item>
+    </plurals>
+    <plurals name="power_center_battery_hour">
+        <item quantity="other">%d saat</item>
+        <item quantity="one">%d saat</item>
+    </plurals>
+    <plurals name="power_center_battery_minute">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="show_dev_countdown">
+        <item quantity="other">Uzaktan geliştirici için %1$d adım</item>
+        <item quantity="one">Uzaktan geliştirici için %1$d adım</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_letters">
+        <item quantity="other">Parolada en az %d adet harf kullanılması gerekir</item>
+        <item quantity="one">Parola en az bir harf içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_lowercase">
+        <item quantity="other">Parola %d adet küçük harf içermelidir</item>
+        <item quantity="one">Parola en az bir adet küçük harf içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_uppercase">
+        <item quantity="other">Parola en az %d adet büyük harf içermelidir</item>
+        <item quantity="one">Parola en az bir büyük harf içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_numeric">
+        <item quantity="other">Parola en az %d basamaklı olmalıdır</item>
+        <item quantity="one">Parola en az bir basamaklı olmalıdır</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_symbols">
+        <item quantity="other">Parola en az %d adet özel karakter içermelidir</item>
+        <item quantity="one">Parola en az bir özel karakter içermelidir</item>
+    </plurals>
+    <plurals name="lockpassword_password_requires_nonletter">
+        <item quantity="other">Parola en az %d adet harf olmayan başka karakter içermelidir</item>
+        <item quantity="one">Parola sadece bir adet harf olmayan karakter içermelidir</item>
+    </plurals>
+    <plurals name="manage_notification_access_summary_nonzero">
+        <item quantity="other">%d uygulama bildirimleri okuyabilir</item>
+        <item quantity="one">%d uygulama bildirimleri okuyabilir</item>
+    </plurals>
+    <plurals name="wrong_pin_code">
+        <item quantity="other">Sim Pin kodu yanlış. Kalan deneme: %d</item>
+        <item quantity="one">Sim Pin kodu yanlış. Cihazın kilidini açmak için taşıyıcınıza başvurmanız gerekmektedir. Kalan deneme: %d</item>
+    </plurals>
+    <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s yazıcı bulundu</item>
+        <item quantity="one">%1$s yazıcı bulundu</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Anahtarlık</string>
+    <string name="title_no_certs">Sertifikalar bulunamadı</string>
+    <string name="title_select_cert">Sertifika seçin</string>
+    <string name="requesting_application">Uygulama %s sertifika istedi</string>
+    <string name="requesting_server">Uygulama %s olarak sunucuyu tespit etti. Uygulamaya güveniyorsanız eğer erişime izin verilmelidir</string>
+    <string name="install_new_cert_message">%1$s yada %2$s harici depolama ile PKCS#12 dosyası sertifikalarını yükleyebilirsiniz</string>
+    <string name="install_new_cert_button_label">Yükle</string>
+    <string name="allow_button">Kabul et</string>
+    <string name="deny_button">Reddet</string>
+</resources>

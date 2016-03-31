@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sim_card_detection_dialog_message">Uim kartı algılanıyor. Lütfen bekleyin</string>
+    <string name="sim_card_detection_label">Uim kart algılama</string>
+    <string name="sim_card_detection_info">"Bir Uim kartı olmadan Xiaomi hesabı kurulumu yapılamaz. Hesap senkronizasyonu, telefon izleme gibi hizmetleri için Uim kartı gereklidir"</string>
+    <string name="sim_card_detection_status_absent">Uim kartı algılanmıyor</string>
+</resources>

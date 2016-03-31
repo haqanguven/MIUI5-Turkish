@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="traffic_uints">
+        <item>B</item>
+        <item>Kb</item>
+        <item>Mb</item>
+        <item>Gb</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Dün "</item>
+        <item>"Bugün "</item>
+        <item>"Aylık "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Dün: "</item>
+        <item>"Bugün: "</item>
+        <item>"Aylık: "</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>Dünki (Veri)</item>
+        <item>Bugünki (Veri)</item>
+        <item>Buayki (Veri)</item>
+        <item>Dünki (Wifi)</item>
+        <item>Bugünki (Wifi)</item>
+        <item>Buayki (Wifi)</item>
+    </string-array>
+    <string-array name="date_of_app">
+        <item>Dünki (Veri)</item>
+        <item>Bugünki (Veri)</item>
+        <item>Buayki (Veri)</item>
+    </string-array>
+    <string-array name="network_speed_update_internals">
+        <item>3 saniye</item>
+        <item>4 saniye</item>
+        <item>5 saniye</item>
+        <item>6 saniye</item>
+        <item>7 saniye</item>
+        <item>8 saniye</item>
+        <item>9 saniye</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Mobil veri kullanımı "</item>
+        <item>"Wifi kullanımı "</item>
+        <item>"Kaydedilen veri "</item>
+	</string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Mobil kullanımı "</item>
+        <item>"Wifi kullanımı "</item>
+    </string-array>
+    <string-array name="traffic_sort_type">
+        <item>"Mobil veri kullanımı "</item>
+        <item>"Wifi kullanımı "</item>
+        <item>"Kaydedilen veri "</item>
+    </string-array>
+    <string-array name="traffic_setting_sms_template">
+        <item>Otomatik raporlama</item>
+        <item>Elle raporlama</item>
+    </string-array>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="next">Sonraki</string>
+    <string name="continues">Devam</string>
+    <string name="shutdown">Kapat</string>
+    <string name="other_service_label">Diğer hizmetler</string>
+    <string name="other_service_location">Konum hizmetleri</string>
+    <string name="other_service_location_summary">"Konum servisleri, haritalar ve diğer uygulamaların Gps'i kullanarak konum bilgileri almasını sağlar"</string>
+    <string name="other_service_google_location">Google konum hizmeti</string>
+    <string name="other_service_google_location_use">Konum &amp; Google arama</string>
+    <string name="other_service_google_location_use_summary">Google arama sonuçları ve diğer hizmetleri geliştirmek için konumunuzu kullanır</string>
+    <string name="other_service_google_location_use_help">"Googlenin konum hizmetlerine veri toplaması için izin verir. Hiçbir uygulama çalışmadığından bile veriler toplanır"</string>
+    <string name="other_service_permission_manager">Uygulama izinlerini yönet</string>
+    <string name="other_service_permission_manager_summary">Güvenlik için uygulamaları izle</string>
+    <string name="other_service_user_experience">Kullanıcı deneyimi programı</string>
+    <string name="other_service_user_experience_summary0">Bu ürün hakkında geri bildirim sağlayarak bize yardım edebilirsiniz.</string>
+    <string name="other_service_user_experience_summary1">Teşekkürler</string>
+    <string name="sim_card_detection_dialog_message">Sim kart bulunuyor. Bekleyin</string>
+    <string name="sim_card_detection_label">Sim kart bulma</string>
+    <string name="sim_card_detection_info">Xiaomi hesabı kurulumu Sim kart olmadan yapılamıyor</string>
+    <string name="sim_card_detection_status_absent">Sim kart bulunamadı</string>
+    <string name="setup_complete_label">Ayarlamalar bitti</string>
+    <string name="setup_complete_info">Telefonu ilk kez kullandığınızda aktif hale gelecektir</string>
+    <string name="setup_complete_start">Telefonu kullanabilirsiniz</string>
+    <string name="setup_complete_summary">Ayarlamalar bitti. Miui Merhaba</string>
+</resources>
